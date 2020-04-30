@@ -1,0 +1,65 @@
+#VRML_SIM R2020a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.8763833026173773 0.47447969876186447 -0.08259129709787356 5.626975320813403
+  position -5.618506141500398 15.51421180863008 23.76111792987525
+  follow "Pioneer 3-AT"
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+Pioneer3at {
+  translation -5.42274 0.103232 6.26565
+  rotation -0.00048786493521296535 0.9999998672029463 -0.00016607797794533093 -1.6987253071795863
+  controller "OO_Controller"
+}
+RectangleArena {
+  translation -2.91 0 3.08
+  floorSize 10 10
+  wallHeight 0.5
+}
+WoodenBox {
+  translation 0 0.3 0.24
+}
+WoodenBox {
+  translation 0 0.3 3.3
+  name "wooden box(4)"
+}
+WoodenBox {
+  translation -2.88 0.3 1.91
+  name "wooden box(5)"
+}
+WoodenBox {
+  translation -5.38 0.3 1.91
+  name "wooden box(6)"
+}
+WoodenBox {
+  translation -6.73 0.3 -0.32
+  name "wooden box(7)"
+}
+WoodenBox {
+  translation -6.73 0.3 7.76
+  name "wooden box(8)"
+}
+WoodenBox {
+  translation -6.73 0.3 4.05
+  name "wooden box(9)"
+}
+WoodenBox {
+  translation 0.05 0.3 7.73
+  name "wooden box(10)"
+}
+WoodenBox {
+  translation -3.81 0.3 0
+  name "wooden box(1)"
+}
+WoodenBox {
+  translation -3.69 0.3 6.3
+  name "wooden box(2)"
+}
+WoodenBox {
+  translation -2.85 0.3 4.93
+  name "wooden box(3)"
+}
